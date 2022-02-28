@@ -7,3 +7,5 @@ Sigurd Enghoff.
 Modification and Re-compilation performed by Ernest Pedapati and Ellen Russo
 ernest.pedapati [at] gmail [dot] com
 
+Intended for academic use only, commercial use forbidden.
+
